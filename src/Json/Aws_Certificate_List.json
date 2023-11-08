@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amazon Chime - Bluetooth Headset Certification (MAC OS X / Windows / IOS / Android)",
+    "code": "Aws-BHC",
+    "data": 8
+  },
+  {
+    "name": "Amazon Chime - USB Headset Certification (MAC OS X / Windows)",
+    "code": "Aws-UHC",
+    "data": 4
+  },
+  {
+    "name": "Amazon Chime - Web Camera",
+    "code": "Aws-WC",
+    "data": 6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Device/Phone/ATA",
+    "code": "DPA",
+    "data": 2
+
+  },
+  {
+    "name": "Soft Client/UC Client",
+    "code": "SCC",
+    "data": 2
+  },
+  {
+    "name": "SBC",
+    "code": "SBC",
+    "data": 5
+  },
+  {
+    "name": "BYOC",
+    "code": "BYOC",
+    "data": 5
+  },
+  {
+    "name": "Application",
+    "code": "Application",
+    "data": 3
+  },
+  {
+    "name": "Headset",
+    "code": "Headset",
+    "data": 2
+  },
+  {
+    "name": "Video Collab Device(ROW)",
+    "code": "VCD",
+    "data": 2
+  }
+]

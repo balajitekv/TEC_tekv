@@ -1,0 +1,284 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Figtree", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Figtree", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background: #f5f7f8;
+  font-size: 22px;
+}
+
+.app {
+  background: #a8d5e5;
+}
+
+h1 {
+  color: #165a72;
+  margin: 35px 31rem;
+  font-size: 30px;
+}
+.menu1 {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+h2 {
+  color: #165a72;
+}
+
+.card {
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.card-style {
+  margin-right: 28px;
+}
+
+#drop1 {
+  margin: 20px;
+  padding: 15px;
+}
+
+#drop2 {
+  margin: 20px;
+  padding: 15px;
+}
+
+#dropdown {
+  display: flex;
+}
+
+.label {
+  padding: 2px;
+}
+
+#calendar2 {
+  margin-left: 11.5px;
+}
+
+#calendar-style1 {
+  /* margin-left: 0.2rem; */
+}
+
+#message {
+  width: 100%;
+  padding: 50px;
+  background-color: #5f5e74;
+  color: black;
+  font-size: 2rem;
+}
+
+#calendar {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  margin-left: 42rem;
+  margin-top: -114px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-dropdown {
+  width: auto !important;
+}
+
+#button1 {
+  margin-top: 5px;
+  margin-left: 0.8rem;
+  height: 2.5rem;
+  border-radius: 12px;
+  background-image: linear-gradient(to bottom, #286ce2, #0056dc) !important;
+}
+
+#reset {
+  background-image: linear-gradient(to bottom, #286ce2, #0056dc) !important;
+  margin-left: 32rem;
+  width: 5.5rem;
+  height: 2.5rem;
+  border-radius: 12px;
+}
+
+#button2 {
+  margin-top: 18px;
+  margin-left: 0.8rem;
+  height: 2.5rem;
+  border-radius: 12px;
+  background-image: linear-gradient(to bottom, #286ce2, #0056dc) !important;
+}
+
+.maindivsidebar .MuiPaper-root.MuiDrawer-paper {
+  height: 93% !important;
+}
+.maindivsidebar_bottom .MuiPaper-root.MuiDrawer-paper {
+  height: 84% !important;
+}
+
+.p-picklist-list-wrapper {
+  box-shadow: 0 54px 55px rgba(0, 0, 0, 0.25), 0 -12px 30px rgba(0, 0, 0, 0.12),
+    0 4px 6px rgba(0, 0, 0, 0.12), 0 12px 13px rgba(0, 0, 0, 0.17),
+    0 -3px 5px rgba(0, 0, 0, 0.09);
+  border-radius: 25px;
+  padding: 4px;
+  width: 40% !important;
+  /* height: 350px !important; */
+  margin-top: 10px !important;
+}
+
+.p-picklist .p-picklist-header {
+  background: #d9d9d9 !important;
+  color: #495057;
+  border: 1px solid #dee2e6;
+  padding: 1rem;
+  font-weight: 600;
+  border-bottom: 0 none;
+  border-top-right-radius: 23px !important;
+  border-top-left-radius: 23px !important;
+  background-image: linear-gradient(to bottom, #808f99, #4f5c63) !important;
+  color: #fff !important;
+}
+
+.p-picklist .p-picklist-list {
+  border: none !important;
+  background: #ffffff;
+  color: #495057;
+  padding: 0.5rem 0;
+  border-bottom-right-radius: 23px !important;
+  border-bottom-left-radius: 23px !important;
+  max-height: 30rem !important;
+  height: 200px !important;
+}
+
+.cardFile {
+  margin-right: 3px;
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  border-radius: 20px;
+  background: #fff !important;
+  height: 573px !important;
+}
+
+button.p-button.p-component.p-button-icon-only.p-disabled {
+  background: #e0e0e0 !important;
+  border: 1px solid #ccc !important;
+}
+
+.p-picklist-buttons .p-button {
+  border-radius: 10px !important;
+}
+
+.css-1wvake5 {
+  width: 230px !important;
+  min-width: 205px !important;
+}
+
+span.p-button-icon.p-c.pi {
+  color: #000 !important;
+}
+
+.astr {
+  color: red;
+  margin-left: 69rem;
+}
+
+.p-picklist-source-controls {
+  visibility: hidden;
+}
+
+.p-picklist-target-controls {
+  visibility: hidden;
+}
+
+@media screen and (max-width: 1400px) {
+  body {
+    font-size: 20px;
+    height: 100vh;
+  }
+
+  h1 {
+    margin: 25px 22rem;
+    font-size: 25px;
+  }
+
+  #drop1 {
+    margin: 20px;
+    /* padding: 15px; */
+  }
+
+  #drop2 {
+    margin-right: 10px;
+    margin-left: -33px;
+    margin-top: 19  px;
+  }
+
+  #calendar {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 28.5rem;
+    margin-top: -114px;
+  }
+
+  .astr {
+    color: "red";
+    margin-left: 42rem;
+  }
+
+  .card {
+    width: 97%;
+  }
+
+  .device-card {
+    width: 95%;
+  }
+
+  .p-picklist-list-wrapper {
+    box-shadow: 0 54px 55px rgba(0, 0, 0, 0.25),
+      0 -12px 30px rgba(0, 0, 0, 0.12), 0 4px 6px rgba(0, 0, 0, 0.12),
+      0 12px 13px rgba(0, 0, 0, 0.17), 0 -3px 5px rgba(0, 0, 0, 0.09);
+    border-radius: 25px;
+    padding: 2px;
+    width: 40% !important;
+    height: 245px !important;
+    margin-top: 10px !important;
+  }
+
+  .p-picklist .p-picklist-header {
+    width: 100% !important;
+  }
+
+  .p-picklist .p-picklist-list {
+    width: 100% !important;
+    padding: 0.25rem 0 !important;
+  }
+
+  .p-picklist[pr_id_8] .p-picklist-buttons {
+    flex-direction: column !important;
+  }
+
+  .p-picklist .p-picklist-buttons {
+    padding: 1.25rem;
+  }
+
+  #button1 {
+    margin-top: 2rem;
+    margin-left: 0.8rem;
+    height: 2.5rem;
+    border-radius: 12px;
+    background-image: linear-gradient(to bottom, #286ce2, #0056dc) !important;
+  }
+
+  #reset {
+    background-image: linear-gradient(to bottom, #286ce2, #0056dc) !important;
+    margin-left: 22rem;
+    width: 5.5rem;
+    height: 2.5rem;
+    border-radius: 12px;
+  }
+}

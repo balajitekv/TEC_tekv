@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Microsoft ACS – SBC Certification",
+    "code": "Microsoft - ASC",
+    "data": 10
+  },
+  {
+    "name": "Microsoft Certification - Teams Console",
+    "code": "Microsoft - CTC",
+    "data": 18
+  },
+  {
+    "name": "Microsoft Certification - Teams Sidecar",
+    "code": "Microsoft - CTS",
+    "data": 11
+  },
+  {
+    "name": "Microsoft SIP Trunk Validation",
+    "code": "Microsoft - STV",
+    "data": 19
+  },
+  {
+    "name": "Microsoft TEAMS - DR SBC Certification - Extended",
+    "code": "Microsoft - DSC",
+    "data": 46
+  },
+  {
+    "name": "Microsoft TEAMS Contact Center: API",
+    "code": "Microsoft - TCC",
+    "data": 10
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zoom Certification - SBC Concierge Test",
+    "code": "Zoom - SCT",
+    "data": 19
+  },
+  {
+    "name": "Zoom – ATA certification",
+    "code": "Zoom - AC",
+    "data": 7
+  },
+  {
+    "name": "Zoom Generic SIP End Point Certification",
+    "code": "Zoom - GSEPC",
+    "data": 16
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Google SIP Link - SBC",
+    "code": "Google-SLC",
+    "data": 19
+  },
+  {
+    "name": "Google – SIP Link Service Provider Accreditation",
+    "code": "Google-SLS",
+    "data": 19
+  },
+  {
+    "name": "Google – SIP Link Service Provider Accreditation -Self Test",
+    "code": "Google - SLPA",
+    "data": 7
+  }
+]

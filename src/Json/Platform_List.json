@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PBX",
+    "code": "PBX"
+  },
+  {
+    "name": "PBX+SBC",
+    "code": "PBX+SBC"
+  },
+  {
+    "name": "UCaaS",
+    "code": "UCaaS"
+  },
+  {
+    "name": "CCaaS",
+    "code": "CCaas"
+  },
+  {
+    "name": "CPaaS",
+    "code": "CPaaS"
+  },
+  {
+    "name": "Contact Center",
+    "code": "Contact Center"
+  }
+]

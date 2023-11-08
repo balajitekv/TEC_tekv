@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Kandy SIP End Point Certification",
+    "code": "Kandy-SEP",
+    "data": 16
+  },
+  {
+    "name": "Kandy Self-Test",
+    "code": "Kandy-ST",
+    "data": 6
+  }
+]
